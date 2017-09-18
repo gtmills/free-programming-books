@@ -1,4 +1,4 @@
-## 目录
+﻿## 目录
 
 * [语言无关](#语言无关)
   * [IDE](#ide)
@@ -537,13 +537,13 @@
   * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
   * [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
   * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
-  * [React 入门教程](http://fraserxu.me/intro-to-react/)
-  * [React.js 中文文档](http://reactjs.cn)
+  * [React.js 中文文档](https://discountry.github.io/react/)
+  * [React.js 入门教程](http://fraserxu.me/intro-to-react/)
 * underscore.js
   * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * Vue.js
   * [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
-* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN) (深入JavaScript语言核心机制的系列图书)
 * Zepto.js
   * [Zepto.js 中文文档](http://css88.com/doc/zeptojs_api)
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com) 翻译，原始地址无法打开，所以此处地址为我博客上的备份)
